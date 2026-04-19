@@ -3,8 +3,8 @@ layout: ../layouts/Layout.astro
 title: Homepage
 ---
 
-# Hello 👋
+# hello
 
-So I am NonsensicalOne also known as Hawli, studying SWE, doing Linux stuff, reading books, I am kind of grateful for my life, even though it pisses me off so much...
+hello, ovrhead here! i like coding in python and love valorant.
 
-You can find more about me in [here](/about)
+you can find more about me in [here](/about)
