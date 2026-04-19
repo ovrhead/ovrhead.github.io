@@ -3,10 +3,11 @@ layout: ../layouts/Layout.astro
 title: More about myself
 ---
 
-# More about myself
+# more about myself
 
-I am a 17 years old college student studying Software Engineering.
+my real name is berkay, and thats the most youre getting from me!
 
 ## Some of my projects are:
-- [0gram](https://github.com/NonsensicalOne/0gram) - Alternative Instagram frontend for privacy enthusiasts
-- [Poly-Archive](https://poly-archive.vercel.app/) - A 3D model archive for Polytoria, a roblox clone
+- [anitr-cli-python](https://github.com/ovrhead/anitr-cli-python) - Turkish anime watching CLI tool.
+- [nap](https://github.com/ovrhead/nap) - file manager for terminal.
+- [motion](https://github.com/ovrhead/motion) - py to exe converter.
