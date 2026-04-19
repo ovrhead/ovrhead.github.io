@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/Layout.astro
-title: Homepage
+title: homepage
 ---
 
 # hello

@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/Layout.astro
-title: More about myself
+title: more about myself
 ---
 
 # more about myself
