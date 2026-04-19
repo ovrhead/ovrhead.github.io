@@ -1,7 +1,7 @@
-export const SITE_TITLE = `Nonsensical's Nonsense`;
+export const SITE_TITLE = `ovr my head!!`;
 
 export const USER = {
-    username: 'Nonsensical',
-    job: 'Software engineer',
-    pronouns: 'they/dont/know/me/son'
+    username: 'ovrhead',
+    job: 'professionally unemployed',
+    pronouns: 'he/him'
 };
